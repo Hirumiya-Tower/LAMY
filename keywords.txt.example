@@ -1,0 +1,15 @@
+# --- LAMY 監視キーワード設定ファイル（見本） ---
+# 監視したいキーワードを一行ずつ書いてください。
+# 大文字・小文字は区別されません。
+# 行の先頭に # を付けると、その行は無視されます。
+
+warning
+error
+critical
+failed
+change
+attempt
+admin
+root
+fatal
+unauthorized

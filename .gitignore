@@ -1,0 +1,6 @@
+*.log
+*.bak
+
+all_alerts.txt
+targets.txt
+keywords.txt
